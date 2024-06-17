@@ -46,7 +46,7 @@ function App() {
           type="number" 
           value={weight}
           onChange={(e)=>setWeight(e.target.value)}
-          placeholder="Put yout weight" />
+          placeholder="Put your weight" />
 
           <label>Height (in): </label>
           <input 
@@ -54,7 +54,7 @@ function App() {
           type="number" 
           value={height}
           onChange={(e)=>setHeight(e.target.value)}
-          placeholder="Put yout height" />
+          placeholder="Put your height" />
 
           <button className='btn' type="submit">Submit</button>
           <div className='optional'>
