@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BMI-calculator-using-React-useState-hook/static/css/main.e5997318.css",
+    "main.js": "/BMI-calculator-using-React-useState-hook/static/js/main.b37a80af.js",
+    "index.html": "/BMI-calculator-using-React-useState-hook/index.html",
+    "main.e5997318.css.map": "/BMI-calculator-using-React-useState-hook/static/css/main.e5997318.css.map",
+    "main.b37a80af.js.map": "/BMI-calculator-using-React-useState-hook/static/js/main.b37a80af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5997318.css",
+    "static/js/main.b37a80af.js"
+  ]
+}
